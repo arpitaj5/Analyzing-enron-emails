@@ -1,6 +1,6 @@
 # Analyzing enron email data
 
-Using the categorized emails from Enron email dataset, we have tried multiple modeling approaches like Naive Bayes, linear Support Vector Machine, Random forest classifier and logistic regression approach to classify the emails into the respective categories. The data can be downloaded [here](http://bailando.sims.berkeley.edu/enron/enron_with_categories.tar.gz).
+Using the categorized emails from Enron email dataset, I have tried multiple modeling approaches like Naive Bayes, linear Support Vector Machine, Random forest classifier and logistic regression approach to classify the emails into the respective categories. The data can be downloaded [here](http://bailando.sims.berkeley.edu/enron/enron_with_categories.tar.gz).
 
 ## Steps involved in processing:
 
@@ -19,4 +19,4 @@ Linear SVM : 64.94%
 Logistic regression : 67.90%    
 Naive Bayes : 66.97%    
 Random Forest : 61.25%     
-We got the highest accuracy ( around 68%) from logistic regression.
+I got the highest accuracy ( around 68%) from logistic regression.
